@@ -1,22 +1,10 @@
-<div align="center">
+<div align="left">
 
 # From Benchmarks to Synthetic Data: Improving Hierarchical Panoptic Segmentation for Agricultural Perception Systems
 
 <strong>Francisco Murta</strong>
 ·
 <strong>Tomás Coelho</strong>
-
-</div>
-
-<div align="center">
-    <a href="https://arxiv.org/abs/2312.09231" class="button"><b>[Paper]</b></a> &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://drive.google.com/drive/folders/1c3HthfWYrw_PEbf0eD2CRYp-xwYmxbLV?usp=sharing" class="button"><b>[Data]</b></a> &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://drive.google.com/drive/folders/1BK1-I1uys0PN6U8KEVDjkLwMAQIbKJho?usp=sharing" class="button"><b>[Checkpoints]</b></a> &nbsp;&nbsp;&nbsp;&nbsp;
-</div>
-
-<br/>
-
-![Teaser](./assets/teaser.png)
 
 # Getting started
 
@@ -180,7 +168,7 @@ At this point, your original PhenoBench training dataset should include both the
 
 
 
-# 2. Mask2Former At Phenobench
+# 3. Mask2Former At Phenobench
 
 Please download the weights for each mask2former model if you want to just perform inference on the dataset.These are the base parameters given by [third place](https://github.com/DTU-PAS/phenobench_challenge.git).
 
