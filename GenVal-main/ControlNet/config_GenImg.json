@@ -1,0 +1,4 @@
+{
+    "phenobench": "../PhenoBench_GenImg/train/images/*.png"  
+}
+

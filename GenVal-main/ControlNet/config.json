@@ -1,0 +1,4 @@
+{
+    "phenobench": "../datasets/train/images/*.png"  
+}
+
