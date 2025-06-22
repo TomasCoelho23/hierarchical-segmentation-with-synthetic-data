@@ -213,7 +213,7 @@ After training, you can run the full inference pipeline to generate predictions 
 
 <pre><code>python mask2former_at_phenobench/inference_all.py</code></pre>
 
-Ensure that the `.yaml` file used here points to the newly trained checkpoints and the correct `dataset_root`. The predictions will be saved in the `output_folder` path specified in the same configuration file.
+Ensure that the `.yaml` file used here points to the newly trained checkpoints and the correct `dataset_root`. The predictions will be saved in the `output_folder` path specified in the same configuration file
 
 </details>
 
